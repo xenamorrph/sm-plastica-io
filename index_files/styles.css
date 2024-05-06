@@ -907,7 +907,7 @@
 .action-intro {
   width: 100%;
   overflow: hidden;
-  background: url("i/background-blue.jpg") repeat-x;
+  background: #003E4B;
   color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -2099,7 +2099,7 @@
   position: relative;
   margin-bottom: 60px;
   margin-top: 60px;
-  background-image: url("i/background-blue.jpg");
+  background: #003E4B;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
